@@ -1,0 +1,207 @@
+.head-text {
+    margin: 0.5% 0 0 3%;
+    font: 16px / 1.5 'GolosText', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #000;
+    width: 418px;
+    max-width: 100%;
+}
+.head-phone{
+    color: #222;
+    font-weight: 900;
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    margin-left: 19%;
+    font-size: 40px;
+    font-weight: bolder; 
+    color: #FF5733; 
+    font-family: Segoe Script; 
+    display: inline-block;
+}
+
+.logo2{
+    margin-left: 19%;
+    font-size: 40px;
+    font-weight: bolder; 
+    color: #FF5733; 
+    font-family: Segoe Script; 
+    display: inline-block;
+}
+
+.title {
+    display: inline-block;
+    color: blue;
+  }
+  
+.title::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 50%;  
+    margin: 10px auto 0;
+  }
+.line {
+    font-size: 150%; 
+    border-bottom: 2px solid #2e2e2e; 
+    font-weight: normal; 
+    padding-bottom: 5px; 
+   }
+
+
+.btn {
+    border-radius: 10px;
+    background: #FF5733;
+    box-shadow: 0px 0px 4px 0px #FF5733;
+    min-width: 239px;
+    color: white;
+    padding: 8px 10px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: 300ms;
+    font: 16px / 1.5 'GolosText', sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.btn:hover {
+    background-color: #FF3344;
+}
+
+.head-warning-box {
+    background: linear-gradient(126.15deg, #444444 33.87%, #252525 116.87%);
+    border-radius: 0 0 10px 10px;
+    padding: 18px 22px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+    font: 16px / 1.5 'GolosText', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+.fixed {
+    max-width: 1190px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.head-warning {
+    position: absolute;
+    top: 9%;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.first-section {
+    background: url() center center / cover no-repeat;
+    overflow: hidden;
+}
+
+
+.btn2 {
+    border-radius: 10px;
+    background: linear-gradient(126.15deg, #3a3a3a 33.87%, #252525 116.87%);
+    min-width: 239px;
+    color: #fff;
+    padding: 20px 20px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: 300ms;
+    font: 20px / 1.8 'GolosText', sans-serif;
+    position: relative;
+    overflow: hidden;
+    margin: 10px 25px;
+}
+
+.btn3 {
+    border-radius: 10px;
+    background:#FF5733;
+    min-width: 239px;
+    color: #fff;
+    padding: 20px 20px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: 300ms;
+    font: 20px / 1.8 'GolosText', sans-serif;
+    position: relative;
+    overflow: hidden;
+    margin: 10px 10px;
+}
+
+.btn4 {
+    border-radius: 10px;
+    background:#FF5733;
+    min-width: 239px;
+    color: #fff;
+    padding: 20px 20px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: 300ms;
+    font: 20px / 1.8 'GolosText', sans-serif;
+    position: relative;
+    overflow: hidden;
+    margin: 10px 10px;
+}
+
+.btn5 {
+    border-radius: 10px;
+    background:#FF5733;
+    min-width: 239px;
+    color: #fff;
+    padding: 20px 20px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: 300ms;
+    font: 20px / 1.8 'GolosText', sans-serif;
+    position: relative;
+    overflow: hidden;
+    margin: 10px 10px;
+}
+
+.btn3:hover {
+    background-color: #FF3344;
+}
+
+.btn4:hover {
+    background-color: #FF3344;
+}
+
+.btn5:hover {
+    background-color: #FF3344;
+}
+
+.logo:hover {
+    color: #FF3344;
+}
+
+.head-warning-box2 {
+    background: linear-gradient(126.15deg, #444444 33.87%, #252525 116.87%);
+    padding: 18px 22px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+    font: 16px / 1.5 'GolosText', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
